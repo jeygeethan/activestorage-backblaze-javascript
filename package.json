@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/jeygeethan/activestorage-backblaze-javascript/issues"
   },
-  "author": "Jey Geethan <geetan123321@gmail.com>",
+  "author": "Jey Geethan <jey@rocketapex.com>",
   "license": "MIT",
   "dependencies": {
     "spark-md5": "^3.0.0"
